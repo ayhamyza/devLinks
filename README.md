@@ -1,4 +1,0 @@
-# portifolio
-# devlinks
-# osadjosajdsojasd
-# osadjosajdsojasd
