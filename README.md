@@ -8,7 +8,8 @@
 <br>
 
 <p align ="center">
-  <img alt="projeto DevLinks" src="./github/capa.png" width="100%">
+  <img alt="projeto DevLinks" src="./github/capa-light.png" width="100%">
+  <img alt="projeto DevLinks" src="./github/capa-dark.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
