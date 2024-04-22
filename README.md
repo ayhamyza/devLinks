@@ -3,7 +3,7 @@
 <div align="center">
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://ayhamyza.github.io/devLinks/)
+[Acesse o projeto finalizado, online](https://ayhamyza.github.io/devLinks/)
 </div>
 <br>
 <p align="center">
