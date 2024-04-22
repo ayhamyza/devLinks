@@ -1,9 +1,15 @@
 <h1 align="center"> DevLinks </h1>
+<br>
+<div align="center">
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+- [Acesse o projeto finalizado, online](https://ayhamyza.github.io/devLinks/)
+</div>
+<br>
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <a href="#-tecnologias"> 💻Tecnologias utilizadas</a>
 </p>
+
 
 <br>
 
@@ -20,12 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
-
-## 💻 Projeto
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://ayhamyza.github.io/devLinks/)
 
 
 
